@@ -29,3 +29,12 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
 
 
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://tailwindui.com"><img src="https://camo.githubusercontent.com/e9b080a6541e5355827ea91b6a0302cbbc54af4705b0c6b0f1561a0957ced2fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="tailwind" data-canonical-src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" style="max-width: 100%;"></a> -->
+
+  
+  ## 📉📊 GitHub Stats...
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VijayaprakashVp)](https://github-readme-stats.vercel.app/api?username=VijayaprakashVp)
+  <br/>
+
+  ## 🖋️⌨️Most Used Languages in Github...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VijayaprakashVp&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=VijayaprakashVp&layout=compact)
