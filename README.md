@@ -10,7 +10,6 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
 - 📫 How to reach me --- via Call or WhatsApp +917402038750... via Mail prakashvijay905@gmail.com
 - ⚡ Fun fact: I'm very much intrested to learn new stuffs.
 
-
 <br/>
 
 ## 💻🚀 My Skills...
