@@ -31,8 +31,8 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
 ## 🤖👾 My Projects...
 
 <p dir="auto">
-<a href="#"><img src="" alt="Tomtop" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="https://pepperfry-clone-silk.vercel.app/">View Project</a><br>
-<a href="#"><img src="" alt="Kohl's" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mehtab39.github.io/projectfashionnova/root/index.html">View Project</a>
+<a href="#"><img src="" alt="Tomtop" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="#">View Project</a><br>
+<a href="#"><img src="https://ibb.co/JyjPTRQ" alt="Plural Sight" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">View Project</a>
 </p>
 <br/>
 
