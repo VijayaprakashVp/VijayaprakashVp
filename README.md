@@ -31,8 +31,8 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
 ## 🤖👾 My Projects...
 
 <p dir="auto">
-<a href="#"><img src="https://camo.githubusercontent.com/d62f0d60ebea5e51b8898c45e3f2a714fa41046311ce405f19d371601aa60824/68747470733a2f2f7374617469632e746f6d746f702e636f6d2f746f6d746f702f69636f6e2f6c6f676f2e706e673f763d33" alt="Tomtop" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="#">View Project</a><br> <br>
-<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjb1-1KgAwxqhBDAKN4QARdjJqNX2kTOYl2AWdnicY76qrFt295yQjY9QQvuF12-QYHg&usqp=CAU" alt="Plural Sight" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">View Project</a>
+<a href="#"><img src="https://camo.githubusercontent.com/d62f0d60ebea5e51b8898c45e3f2a714fa41046311ce405f19d371601aa60824/68747470733a2f2f7374617469632e746f6d746f702e636f6d2f746f6d746f702f69636f6e2f6c6f676f2e706e673f763d33" alt="Tomtop" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="https://tomtop-clone-zeta.vercel.app/">View Project</a><br> <br>
+<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjb1-1KgAwxqhBDAKN4QARdjJqNX2kTOYl2AWdnicY76qrFt295yQjY9QQvuF12-QYHg&usqp=CAU" alt="Plural Sight" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://aadityaneve.github.io/Clone-Pluralsight/pages/for-individuals.html">View Project</a>
 </p>
 <br/>
 
