@@ -2,7 +2,7 @@
 
 # Hi👋, I am Vijayaprakash,
 A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am an avid learner. 
-## 👨‍🎓 About me...
+## 👨‍🎓👨‍🎤 About me...
 - 🌱 Passionate and Dedicated aspiring Full-Stack Web Developer with a specialization in MERN stack.
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👨‍🎤 Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
