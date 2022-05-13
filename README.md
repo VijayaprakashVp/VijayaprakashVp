@@ -7,7 +7,7 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👨‍🎤 Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
 - 👨‍💻 All of my projects are available at My <a href="https://vijayaprakash-portfolio.vercel.app">Portfolio</a>
-- 📫 How to reach me --- via Call +91 7010044766... via Mail prakashvijay905@gmail.com
+- 📫 How to reach me --- via Call +91 7010044766 or --- via Mail prakashvijay905@gmail.com
 - ⚡ Fun fact: I'm very much intrested to learn new stuffs.
 
 <br/>
